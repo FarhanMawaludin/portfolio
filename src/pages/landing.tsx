@@ -48,7 +48,7 @@ export default function LandingPage() {
     };
 
     return (
-        <div className="bg-black text-white">
+        <div className="bg-black text-white overflow-x-hidden">
             <Navbar />
 
             <main>
